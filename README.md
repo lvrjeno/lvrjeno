@@ -1,5 +1,5 @@
 ### about me
-💻 Taking up a Bachelor's Degree in Computer Science specializing in Software Development<br>🏫 4th Year enrolled in Central Philippine University<br>📚 Currently learning Python<br>✍️ Great writing and communication skills
+💻 Graduate with a Bachelor's Degree in Computer Science specializing in Software Development<br>🏫 4th Year enrolled in Central Philippine University<br>📚 Currently learning Python<br>✍️ Great writing and communication skills
 
 
 ### 🌐 socials
