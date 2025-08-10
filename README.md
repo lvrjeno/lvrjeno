@@ -1,7 +1,6 @@
 ## 👋 About Me
 📊 Aspiring Data Analyst with a strong foundation in Computer Science  
 🎓 Bachelor’s Degree in Computer Science, specializing in Software Development  
-🏫 4th Year student at Central Philippine University  
 🐍 Currently honing skills in Python, Pandas, NumPy, and data visualization  
 📝 Strong communication and writing skills from experience as a news writer  
 
